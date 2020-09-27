@@ -14,7 +14,7 @@ const App = () => (
     <GlobalStyle />
     <NavigationBar />
     <Main>
-      <Router>
+      <Router basepath="/have-a-good-time/">
         <Home path="/" />
         <Cube path="/cube" />
         <Parallax path="/parallax" />
