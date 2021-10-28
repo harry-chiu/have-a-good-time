@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2ea63898f8e9056f5d75edb2ca74dda",
+    "revision": "0d2e72c8699e2f8150d8cecd6523e961",
     "url": "/have-a-good-time/index.html"
   },
   {
-    "revision": "26fc213403891d454a34",
-    "url": "/have-a-good-time/static/js/2.da93b6fa.chunk.js"
+    "revision": "a0faf6ffa60ac1f025ae",
+    "url": "/have-a-good-time/static/js/2.b21fc687.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/have-a-good-time/static/js/2.da93b6fa.chunk.js.LICENSE.txt"
+    "revision": "9b318b6fb13190fe82c0677e9264b3c7",
+    "url": "/have-a-good-time/static/js/2.b21fc687.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a8dfde7cc4ddeec44173",
-    "url": "/have-a-good-time/static/js/main.90e7a752.chunk.js"
+    "revision": "005328c54507af959a48",
+    "url": "/have-a-good-time/static/js/main.464fd03b.chunk.js"
   },
   {
     "revision": "334490e0c85c496e9e54",
